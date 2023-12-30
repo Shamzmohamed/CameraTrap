@@ -13,4 +13,5 @@
 1. Extend the BDD dataset with at least 2 additional species
 2. Locate the animals in the images (alternative method)
 3. Classify the animals into the min. 4 classes (alternative method)
+ - For this project to locate the animals in the images (annotate), I have used the MegaDetector, a computer vision model that detects animals in camera trap images   
 ### Camera Trap Dataset:
