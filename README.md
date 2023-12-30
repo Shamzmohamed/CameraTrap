@@ -3,6 +3,7 @@
 • Camera can capture both _RGB_ and _IR_ images (day and night)  
 • If the motion detector detects a movement a sequence of X photos is taken  
 • If there is not enough daylight available (brightness sensor), an _IR flash_ is used  
+• Camera traps are placed (often camouflaged) in the wild  
 ## Iteration-1 (Badger/Deer dataset - day images only):
 1. Create a badger/deer dataset (BDD) from the day images of this species
 2. Identify coherent sequences of images (over time)
