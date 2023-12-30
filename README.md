@@ -4,12 +4,12 @@
 • If the motion detector detects a movement a sequence of X photos is taken  
 • If there is not enough daylight available (brightness sensor), an _IR flash_ is used  
 • Camera traps are placed (often camouflaged) in the wild  
-## Iteration-1 (Badger/Deer dataset - day images only):
+### Iteration-1 (Badger/Deer dataset - day images only):
 1. Create a badger/deer dataset (BDD) from the day images of this species
 2. Identify coherent sequences of images (over time)
 3. Locate the animals in the images (rough position)
 4. Classify the animals (badger vs. deer)  
-## Iteration-2 (BDD+):
+### Iteration-2 (BDD+):
 1. Extend the BDD dataset with at least 2 additional species
 2. Locate the animals in the images (alternative method)
 3. Classify the animals into the min. 4 classes (alternative method)
