@@ -13,3 +13,4 @@
 1. Extend the BDD dataset with at least 2 additional species
 2. Locate the animals in the images (alternative method)
 3. Classify the animals into the min. 4 classes (alternative method)
+### Camera Trap Dataset:
