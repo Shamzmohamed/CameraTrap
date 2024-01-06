@@ -16,5 +16,5 @@
 - For this project to locate the animals in the images (annotate), I have used the MegaDetector, a computer vision model that detects animals in camera trap images
 - MegaDetector is an object detection model that identifies animals, people, and vehicles in camera trap images (which also makes it useful for eliminating blank images). This model is trained on several hundred thousand bounding boxes from a variety of ecosystems.  
 ### Camera Trap Dataset:
-Collected from Hoge Veluwe National Park (NL)
+Collected from Hoge Veluwe National Park (NL)  
 • Biggest national park in the Netherlands
