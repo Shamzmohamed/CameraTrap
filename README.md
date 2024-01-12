@@ -6,7 +6,7 @@
 • Camera traps are placed (often camouflaged) in the wild  
 ### Iteration-1 (Badger/Deer dataset - day images only):
 1. Create a badger/deer dataset (BDD) from the day images of this species
-2. Identify coherent sequences of images (over time) 
+2. Identify coherent sequences of images (over time)
 3. Locate the animals in the images (rough position)
 4. Classify the animals (badger vs. deer)  
 ### Iteration-2 (BDD+):
