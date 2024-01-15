@@ -1,4 +1,4 @@
-# CameraTrap
+# CameraTrap 
 • Camera traps are cameras which are equipped with a _motion detector_, an _infrared flash_ and a _brightness sensor_.  
 • Camera can capture both _RGB_ and _IR_ images (day and night)  
 • If the motion detector detects a movement a sequence of X photos is taken  
